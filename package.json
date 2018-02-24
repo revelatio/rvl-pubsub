@@ -1,0 +1,22 @@
+{
+  "name": "rvl-pubsub",
+  "version": "0.1.0",
+  "description": "Revelat.io API for publishing pubsub events",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "dotenv": "^5.0.0",
+    "nock": "^9.1.10",
+    "standard": "^11.0.0"
+  }
+}
