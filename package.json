@@ -7,8 +7,15 @@
     "lint": "standard",
     "test": "ava"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revelatio/rvl-pubsub.git"
+  },
+  "keywords": [
+    "revelatio",
+    "pubsub"
+  ],
+  "author": "Revelatio Team",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
